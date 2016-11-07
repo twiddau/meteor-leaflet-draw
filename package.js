@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-    api.use(':leaflet@3.0.1', 'client');
+    api.use('bevanhunt:leaflet@3.0.1', 'client');
     api.addFiles([
         'lib/leaflet.draw.js',
         'leaflet.draw.css'
