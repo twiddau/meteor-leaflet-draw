@@ -1,4 +1,4 @@
-bdunnette:leaflet-draw@2.0.0
-bevanhunt:leaflet@2.0.0
+bevanhunt:leaflet@3.0.1
 meteor@1.1.15
+twiddau:leaflet-draw@0.4.1-0
 underscore@1.0.9
